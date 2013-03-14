@@ -1,0 +1,10 @@
+Code for changing the registration form submit button color. When the registration form is on a classic landing page
+and it is the right hand column on the landing page.
+
+<style>
+#foxboro_content div.block .FormSubmitButton {
+background-color: #5487B6;
+color: #FFFFFF;
+font-size: 20px;
+}
+</style>
